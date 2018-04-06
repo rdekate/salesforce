@@ -248,6 +248,11 @@
         <field>ProductAsset__c.ProductAssetName__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>RD_Test__c.RD_Text__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
@@ -384,6 +389,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>ProductAsset__c-ProductAsset Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>RD_Test__c-RD Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Review__c-Review Layout</layout>

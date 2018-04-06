@@ -234,6 +234,11 @@
         <field>ProductAsset__c.ProductAssetName__c</field>
         <readable>false</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>RD_Test__c.RD_Text__c</field>
+        <readable>false</readable>
+    </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Hiring Managers</label>
     <objectPermissions>
